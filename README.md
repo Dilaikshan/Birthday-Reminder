@@ -61,8 +61,8 @@ A simple Flutter application for managing and reminding birthdays. This app is d
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/birthday-reminder-app.git  
-   cd birthday-reminder-app
+   git clone https://github.com/Dilaikshan/Birthday-Reminder.git 
+   cd Birthday-Reminder
 2. Install dependencies:
    ```bash  
    flutter pub get   
@@ -70,9 +70,9 @@ A simple Flutter application for managing and reminding birthdays. This app is d
    ```bash  
    flutter run  
 ## 📜 License
-  -This project is licensed under the MIT License.
+ - This project is licensed under the MIT License.
 
 ## ⭐ If you find this app useful, please give it a star on GitHub!
-  -This file is formatted and structured to be comprehensive, professional, and GitHub-friendly. Add relevant screenshots or demo links for better presentation!
+ -This file is formatted and structured to be comprehensive, professional, and GitHub-friendly. Add relevant screenshots or demo links for better presentation!
  
    

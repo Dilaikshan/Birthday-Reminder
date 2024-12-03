@@ -70,9 +70,9 @@ A simple Flutter application for managing and reminding birthdays. This app is d
    ```bash  
    flutter run  
 ## 📜 License
- - This project is licensed under the MIT License.
+ - This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## ⭐ If you find this app useful, please give it a star on GitHub!
- -This file is formatted and structured to be comprehensive, professional, and GitHub-friendly. Add relevant screenshots or demo links for better presentation!
+ - This file is formatted and structured to be comprehensive, professional, and GitHub-friendly. Add relevant screenshots or demo links for better presentation!
  
    
